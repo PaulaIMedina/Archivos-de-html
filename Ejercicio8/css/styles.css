@@ -1,0 +1,14 @@
+/* link sin visitar */
+a:link{
+    color: #350749;
+}
+
+/* cuando el usuario se posiciona con el ratón */
+a:hover{
+    background-color:#CC0000 ;
+    font-family: 'Courier New', Courier, monospace;color: #FFF;
+}
+
+a:visited{
+    color: #CCC ;
+}
